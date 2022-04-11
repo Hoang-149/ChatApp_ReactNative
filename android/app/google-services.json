@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718203491708",
+    "project_id": "chatapp-1ec20",
+    "storage_bucket": "chatapp-1ec20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718203491708:android:3b38399bd9f9e11cd800f9",
+        "android_client_info": {
+          "package_name": "com.trainingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718203491708-davu8dqf9h3v5phr2itfgudboo4uth5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4ot7h1mFtvP9Q01-ZZQtaUTW4ckboPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718203491708-davu8dqf9h3v5phr2itfgudboo4uth5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
